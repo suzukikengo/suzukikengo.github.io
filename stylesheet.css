@@ -14,9 +14,9 @@ img{
 .kuroneko p{
   position: absolute;/*絶対配置*/
   color: white;/*文字は白に*/
-  font-size: 100px;
+  font-size: 50px;
   font-family :Quicksand, sans-serif;/*Google Font*/
-  top: 10;
+  top: 0;
   left: 0;
   }
 
