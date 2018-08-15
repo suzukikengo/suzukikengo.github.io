@@ -21,7 +21,7 @@ img{
 
 .kuroneko audio{
   position: absolute;/*絶対配置*/
-  top: 70;
+  top: 100;
   left: 0;
   }
 
@@ -44,7 +44,7 @@ img{
 
 .simaneko audio{
   position: absolute;/*絶対配置*/
-  top: 140;
+  top: 210;
   left: 0;
   }
 
