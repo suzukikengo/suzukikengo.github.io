@@ -1,12 +1,8 @@
 
-/*   写真サイズ統一　*/
-img{
-  width:400px;
-  height:400px;
-}
-
 /*   kuroneko 　*/
-.kuroneko{position: relative;}
+.kuroneko{
+  position: relative;
+}
 
 .kuroneko p{
   position: absolute;/*絶対配置*/
@@ -19,7 +15,7 @@ img{
 
 .kuroneko audio{
   position: absolute;/*絶対配置*/
-  top: 100;
+  top: 0;
   left: 0;
   }
 
@@ -28,7 +24,10 @@ img{
   }
 
 /*   simaneko 　*/
-.simaneko{position: relative;}
+.simaneko{
+  position: relative;
+}
+
 .simaneko p{
   position: absolute;/*絶対配置*/
   color: white;/*文字は白に*/
@@ -40,7 +39,7 @@ img{
 
 .simaneko audio{
   position: absolute;/*絶対配置*/
-  top: 210;
+  top: 0;
   left: 0;
   }
 
