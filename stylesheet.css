@@ -22,10 +22,33 @@ img{
 
 .kuroneko audio{
   position: absolute;/*絶対配置*/
-  top: 50;
-  left: 0;
+  top: 100;
+  left: 20;
   }
 
 .kuroneko img {
+  width: 400px;
+  }
+.kuroneko{
+  position: relative;
+}
+
+
+.simaneko p{
+  position: absolute;/*絶対配置*/
+  color: white;/*文字は白に*/
+  font-size: 50px;
+  font-family :Quicksand, sans-serif;/*Google Font*/
+  top: 0;
+  left: 0;
+  }
+
+.simaneko audio{
+  position: absolute;/*絶対配置*/
+  top: 100;
+  left: 20;
+  }
+
+.simaneko img {
   width: 400px;
   }
