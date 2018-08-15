@@ -6,9 +6,7 @@ img{
 }
 
 /*   kuroneko 　*/
-.kuroneko{
-  position: relative;
-}
+.kuroneko{position: relative;}
 
 .kuroneko p{
   position: absolute;/*絶対配置*/
@@ -28,11 +26,9 @@ img{
 .kuroneko img {
   width: 400px;
   }
-.kuroneko{
-  position: relative;
-}
 
 /*   simaneko 　*/
+.simaneko{position: relative;}
 .simaneko p{
   position: absolute;/*絶対配置*/
   color: white;/*文字は白に*/
