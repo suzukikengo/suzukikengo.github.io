@@ -1,12 +1,11 @@
 
-h1{
-  font-size:100px;
-  background-color:red；
-}
+/*   写真サイズ統一　*/
 img{
   width:400px;
   height:400px;
 }
+
+/*   kuroneko 　*/
 .kuroneko{
   position: relative;
 }
@@ -22,8 +21,8 @@ img{
 
 .kuroneko audio{
   position: absolute;/*絶対配置*/
-  top: 100;
-  left: 20;
+  top: 70;
+  left: 0;
   }
 
 .kuroneko img {
@@ -33,20 +32,20 @@ img{
   position: relative;
 }
 
-
+/*   simaneko 　*/
 .simaneko p{
   position: absolute;/*絶対配置*/
   color: white;/*文字は白に*/
   font-size: 50px;
   font-family :Quicksand, sans-serif;/*Google Font*/
-  top: 0;
+  top: 100;
   left: 0;
   }
 
 .simaneko audio{
   position: absolute;/*絶対配置*/
-  top: 100;
-  left: 20;
+  top: 140;
+  left: 0;
   }
 
 .simaneko img {
