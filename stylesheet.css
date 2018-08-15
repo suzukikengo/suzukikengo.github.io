@@ -20,6 +20,11 @@ img{
   left: 0;
   }
 
+.kuroneko audio{
+  position: absolute;/*絶対配置*/
+  top: 0;
+  left: 0;
+  }
 
 .kuroneko img {
   width: 400px;
