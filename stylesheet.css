@@ -9,8 +9,8 @@
   color: white;/*文字は白に*/
   font-size: 50px;
   font-family :Quicksand, sans-serif;/*Google Font*/
-  top: 0;
-  left: 0;
+  top: 10px;
+  left: 30px;
   }
 
 .kuroneko audio{
@@ -33,8 +33,8 @@
   color: white;/*文字は白に*/
   font-size: 50px;
   font-family :Quicksand, sans-serif;/*Google Font*/
-  top: 0;
-  left: 0;
+  top: 10px;
+  left: 30px;
   }
 
 .simaneko audio{
@@ -61,8 +61,8 @@
   color: white;/*文字は白に*/
   font-size: 50px;
   font-family :Quicksand, sans-serif;/*Google Font*/
-  top: 0;
-  left: 0;
+  top: 10px;
+  left: 30px;
   }
 
 .nigeneko audio{
