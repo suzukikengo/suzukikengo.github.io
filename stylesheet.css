@@ -1,5 +1,5 @@
 
-/*   kuroneko 　*/
+                             /*   kuroneko 　*/
 .kuroneko{
   position: relative;
 }
@@ -23,7 +23,35 @@
   width: 400px;
   }
 
-/*   simaneko 　*/
+                              /*   simaneko 　*/
+.simaneko{
+  position: relative;
+}
+
+.simaneko p{
+  position: absolute;/*絶対配置*/
+  color: white;/*文字は白に*/
+  font-size: 50px;
+  font-family :Quicksand, sans-serif;/*Google Font*/
+  top: 0;
+  left: 0;
+  }
+
+.simaneko audio{
+  position: absolute;/*絶対配置*/
+  top: 0;
+  left: 0;
+  }
+
+.simaneko img {
+  width: 400px;
+  }
+
+.kuroneko img {
+  width: 400px;
+  }
+
+                           /*   nigeneko 　*/
 .simaneko{
   position: relative;
 }
