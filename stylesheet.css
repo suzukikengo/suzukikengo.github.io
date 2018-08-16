@@ -56,7 +56,7 @@
   position: relative;
 }
 
-.simaneko p{
+.nigeneko p{
   position: absolute;/*絶対配置*/
   color: white;/*文字は白に*/
   font-size: 50px;
@@ -65,12 +65,12 @@
   left: 0;
   }
 
-.simaneko audio{
+.nigeneko audio{
   position: absolute;/*絶対配置*/
   top: 0;
   left: 0;
   }
 
-.simaneko img {
+.nigeneko img {
   width: 400px;
   }
