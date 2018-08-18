@@ -1,13 +1,18 @@
 
- .header{ 
+ .header { 
   font-family :Quicksand, sans-serif;/*Google Font*/
   height:200px;
   width:100%;
   background-color:#9de8ea;
-  float;right;
+ 
 }
 
-
+.header-logo { 
+  float;right;
+}
+.header-list { 
+  float;right;
+}
 
 
                              /*   kuroneko 　*/
