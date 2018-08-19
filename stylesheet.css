@@ -42,7 +42,7 @@ li {
   position: relative;
 }
   
-.kuroneko img{
+.kuroneko-img{
   width: 400px;
   }
   
@@ -82,7 +82,7 @@ li {
   left: 0;
   }
 
-.simaneko img{
+.simaneko-img{
   width: 400px;
   }
 
@@ -107,7 +107,7 @@ li {
   left: 0;  
  }
   
-  .nigeneko img{
+  .nigeneko-img{
   width: 400px;
   }
 
