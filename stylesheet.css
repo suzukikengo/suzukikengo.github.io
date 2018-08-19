@@ -41,7 +41,11 @@ li {
 .kuroneko{
   position: relative;
 }
-
+  
+.kuroneko img{
+  width: 400px;
+  }
+  
 .kuroneko p{
   position: absolute;/*絶対配置*/
   color: white;/*文字は白に*/
@@ -78,7 +82,7 @@ li {
   left: 0;
   }
 
-.simaneko img {
+.simaneko img{
   width: 400px;
   }
 
@@ -100,7 +104,11 @@ li {
 .nigeneko audio{
   position: absolute;/*絶対配置*/
   top: 0;
-  left: 0;
+  left: 0;  
+ }
+  
+  .nigeneko img{
+  width: 400px;
   }
 
 
