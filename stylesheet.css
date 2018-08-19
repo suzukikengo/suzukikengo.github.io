@@ -42,7 +42,7 @@ li {
   
   
 .kuroneko p{
-  position: absolute;/*絶対配置*/
+  /*position: absolute; / * 絶対配置*/
   color: white;/*文字は白に*/
   font-size: 50px;
   font-family :Quicksand, sans-serif;/*Google Font*/
