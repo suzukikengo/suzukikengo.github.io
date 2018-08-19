@@ -39,8 +39,9 @@ li {
 
                              /*   kuroneko 　*/
 .kuroneko{
-  font-size 40px;
+  font-size: 50px;
   color:white;
+  font-family: "cursive";
 }
 
 img{
