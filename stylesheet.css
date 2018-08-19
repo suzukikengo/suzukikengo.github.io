@@ -33,7 +33,7 @@ li {
 }
 
 .kuuhaku{
-  padding: 30px;
+  padding: 100px;
 
                              /*   kuroneko 　*/
 
@@ -43,55 +43,3 @@ li {
   }
 
                               /*   simaneko 　*/
-.simaneko{
-  position: relative;
-}
-
-.simaneko p{
-  position: absolute;/*絶対配置*/
-  color: white;/*文字は白に*/
-  font-size: 50px;
-  font-family :Quicksand, sans-serif;/*Google Font*/
-  top: 10px;
-  left: 30px;
-  }
-
-.simaneko audio{
-  position: absolute;/*絶対配置*/
-  top: 0;
-  left: 0;
-  }
-
-.simaneko-img{
-  height: 400px;
-  width: 400px;
-  }
-
-
-                           /*   nigeneko 　*/
-.nigeneko{
-  position: relative;
-}
-
-.nigeneko p{
-  position: absolute;/*絶対配置*/
-  color: white;/*文字は白に*/
-  font-size: 50px;
-  font-family :Quicksand, sans-serif;/*Google Font*/
-  top: 10px;
-  left: 30px;
-  }
-
-.nigeneko audio{
-  position: absolute;/*絶対配置*/
-  top: 0;
-  left: 0;  
- }
-  
-  .nigeneko-img{
-  height: 400px;
-  width: 400px;
-  }
-
-
- 
