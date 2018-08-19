@@ -1,9 +1,9 @@
 
  .header { 
   font-family :Quicksand, sans-serif;/*Google Font*/
-  font-size:50px;
-  height:200px;
-  width:600px;
+  font-size: 50px;
+  height: 200px;
+  width: 600px;
   background-color:#9de8ea;
   }
 .header h1{
