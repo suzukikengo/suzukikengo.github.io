@@ -12,17 +12,17 @@ li {
   background-color: #26d0c9;
   color: #fff;
   height: 90px;
-  width: 1500px;
+  width: 800px;
 }
 
 .header-logo {
   float: left;
-  font-size: 36px;
+  font-size: 50px;
   padding: 20px 40px;
 }
 
 .header-list {
-  font-size: 20px;
+  font-size: 40px;
   float: left;
 }
 
@@ -36,7 +36,10 @@ li {
   padding: 100px;
 
                              /*   kuroneko 　*/
-
+.kuroneko{
+  height: 400px;
+  width: 400px;
+  }
 .kuroneko-img{
   height: 400px;
   width: 400px;
