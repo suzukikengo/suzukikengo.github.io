@@ -1,5 +1,5 @@
 
- .h1 { 
+ .header { 
   font-family :Quicksand, sans-serif;/*Google Font*/
   height:200px;
   width:100%;
@@ -7,13 +7,7 @@
   float;left;
 }
   
-  .li { 
-  font-family :Quicksand, sans-serif;/*Google Font*/
-  height:200px;
-  width:100%;
-  background-color:#9de8ea;
-  float;left;
-}
+ 
 
                              /*   kuroneko 　*/
 .kuroneko{
