@@ -22,7 +22,7 @@ li {
 }
 
 .header-list {
-  font-size: 40px;
+  font-size: 25px;
   float: left;
 }
 
@@ -40,7 +40,7 @@ li {
   height: 400px;
   width: 400px;
   }
-.kuroneko-img{
+.kuroneko-img img{
   height: 400px;
   width: 400px;
   }
