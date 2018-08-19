@@ -4,16 +4,17 @@
   font-size: 30px;
   height: 150px;
   width: 1500px;
-  padding:10px;
+  padding:20px;
   background-color:#9de8ea;
-  float:left;
+ 
   }
 
-.header h1{
+.header-logo{
  color:white;
+ float:left;
 }
 
- .header li{
+ .header-list{
   padding:20px;
   list-style:none;
   float:left;
