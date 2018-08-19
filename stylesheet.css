@@ -4,7 +4,7 @@ body {
 }
 
 .img{
-  height: 400px;
+  width: 400px;
 }
 
 li {
@@ -57,9 +57,6 @@ li {
   left: 0;
   }
 
-.kuroneko img {
-  width: 400px;
-  }
 
                               /*   simaneko 　*/
 .simaneko{
@@ -85,9 +82,6 @@ li {
   width: 400px;
   }
 
-.kuroneko img {
-  width: 400px;
-  }
 
                            /*   nigeneko 　*/
 .nigeneko{
@@ -109,6 +103,5 @@ li {
   left: 0;
   }
 
-.nigeneko img {
-  width: 400px;
-  }
+
+ 
