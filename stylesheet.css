@@ -1,9 +1,10 @@
 
  .header { 
   font-family :Quicksand, sans-serif;/*Google Font*/
-  font-size: 50px;
-  height: 200px;
+  font-size: 20px;
+  height: 300px;
   width: 1500px;
+  padding:20px;
   background-color:#9de8ea;
   }
 .header h1{
