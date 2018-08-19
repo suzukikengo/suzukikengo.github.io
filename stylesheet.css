@@ -3,6 +3,10 @@ body {
   font-family: "Avenir Next";
 }
 
+.img{
+  height: 400px;
+}
+
 li {
   list-style: none;
 }
