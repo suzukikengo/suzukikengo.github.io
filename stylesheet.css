@@ -2,12 +2,16 @@
  .header { 
   font-family :Quicksand, sans-serif;/*Google Font*/
   height:200px;
-  width:100%;
+  width:600px;
   background-color:#9de8ea;
-  float;left;
+  }
+.header h1{
+ color:red;
 }
-  
- 
+
+ .header li{
+  float:left;
+}
 
                              /*   kuroneko 　*/
 .kuroneko{
