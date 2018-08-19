@@ -3,14 +3,15 @@
   font-family :Quicksand, sans-serif;/*Google Font*/
   font-size: 50px;
   height: 200px;
-  width: 600px;
+  width: 1500px;
   background-color:#9de8ea;
   }
 .header h1{
- color:red;
+ color:white;
 }
 
  .header li{
+  padding:20px;
   list-style:none;
   float:left;
 }
