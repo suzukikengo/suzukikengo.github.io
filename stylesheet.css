@@ -6,7 +6,9 @@
   width: 1500px;
   padding:10px;
   background-color:#9de8ea;
+  float:left;
   }
+
 .header h1{
  color:white;
 }
