@@ -38,6 +38,10 @@ li {
 }
 
                              /*   kuroneko 　*/
+.position:absolute{
+  font-size 40px;
+}
+
 img{
    height: 400px;
   width: 400px;
@@ -45,4 +49,4 @@ img{
   
 
 
-                              /*   simaneko 　*/
+                         
