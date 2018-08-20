@@ -39,11 +39,7 @@ li {
 }
 
                              /*   kuroneko 　*/
-.kuroneko{
-  font-size: 50px;
-  color:white;
-  font-family: "Comic Sans MS";
-}
+
 
 img{
    height: 400px;
@@ -59,12 +55,12 @@ img{
 
 .shosiki2{
   font-size: 50px;
-  color:black;
+  color:blue;
   font-family: "Comic Sans MS";
 }
 .shosiki3{
   font-size: 50px;
-  color:white;
+  color:tomato;
   font-family: "Comic Sans MS";
 }
 .shosiki4{
