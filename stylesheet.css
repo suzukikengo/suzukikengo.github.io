@@ -4,7 +4,10 @@ body {
   font-family: "Avenir Next";
 }
 
-
+a{
+   padding: 40px 40px 24px 20px;
+}
+  
 li {
   list-style: none;
 }
