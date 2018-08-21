@@ -6,6 +6,7 @@ body {
 
 a{
    padding: 40px 40px 24px 20px;
+   float: left;
 }
   
 li {
