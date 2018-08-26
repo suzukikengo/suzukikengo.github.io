@@ -3,94 +3,19 @@ body {
   font-family: "Avenir Next";
 }
 
-a{
-   padding: 40px 40px 24px 20px;
-   float: left;
+.header-logo{
+  height:100;
+  width:1000;
+  color:white;
+  background-color:rgba(255,150,150,0.5)
 }
   
-li {
-  list-style: none;
-  border:3px solid red;
-}
-a{
-  padding:10px 10px;
-  border-radius:100px;
-  border:2px solid white;
 
-}
-.header {
-  background-color: #26d0c9;
-  color: #fff;
-  height:130px;
-  width:805px;
-}
 
-.header-logo {
-  float: left;
 
-  font-size:60px;
-  padding: 30px 200px 0px 30px;
-}
-
-.header-logo:hover{
-  background-color:black;
-}
-
-.header-list {
-  display:inline-block;
-  font-size: 25px;
-  float: left;
-}
-
-.header-list li {
-
-  float: left;
-  color: #fff;
-  padding: 40px 40px 24px 20px;
-}
-
-.kuuhaku{
-
-  padding: 20px;
-  height: 30px;
-  width:765px;
-  background-image: url(https://suzukikengo.github.io/IMG_5780.jpg);
+.main{
+  height:1000;
+  width:1000;
+  background-image:url(https://suzukikengo.github.io/IMG_7259.jpg);
   background-size:cover;
 }
-
-                             /*   kuroneko 　*/
-
-
-img{
-  border-radius:100px;
-  height: 400px;
-  width: 400px;
-  }
-
-
-.shosiki1{
-  font-size: 50px;
-  opasity:0.2;
-  color:white;
-  font-family: "Comic Sans MS";
-}
-
-.shosiki2{
-  font-size: 50px;
-  opasity:0.2;
-  color:blue;
-  font-family: "Comic Sans MS";
-}
-.shosiki3{
-  font-size: 50px;
-  opasity:0.2;
-  color:tomato;
-  font-family: "Comic Sans MS";
-}
-.shosiki4{
-  font-size: 50px;
-  opasity:0.2;
-  color:white;
-  font-family: "Comic Sans MS";
-}
-
