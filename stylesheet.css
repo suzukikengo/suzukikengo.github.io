@@ -13,16 +13,21 @@ li {
   list-style: none;
   border:3px solid red;
 }
+a{
+  padding:10px 10px;
+  border:2px solid white;
 
+}
 .header {
   background-color: #26d0c9;
   color: #fff;
   height:130px;
-  width: 800px;
+  width:805px;
 }
 
 .header-logo {
   float: left;
+
   font-size:60px;
   padding: 30px 200px 0px 30px;
 }
@@ -34,20 +39,26 @@ li {
 }
 
 .header-list li {
+
   float: left;
   color: #fff;
   padding: 40px 40px 24px 20px;
 }
 
 .kuuhaku{
+
   padding: 20px;
-  height: 10px;
+  height: 30px;
+  width:765px;
+  background-image: url(https://suzukikengo.github.io/IMG_5780.jpg);
+  background-size:cover;
 }
 
                              /*   kuroneko 　*/
 
 
 img{
+  
    height: 400px;
   width: 400px;
   }
@@ -55,45 +66,27 @@ img{
 
 .shosiki1{
   font-size: 50px;
+  opasity:0.2;
   color:white;
   font-family: "Comic Sans MS";
 }
 
 .shosiki2{
   font-size: 50px;
+  opasity:0.2;
   color:blue;
   font-family: "Comic Sans MS";
 }
 .shosiki3{
   font-size: 50px;
+  opasity:0.2;
   color:tomato;
   font-family: "Comic Sans MS";
 }
 .shosiki4{
   font-size: 50px;
+  opasity:0.2;
   color:white;
   font-family: "Comic Sans MS";
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
