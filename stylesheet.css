@@ -23,4 +23,18 @@ body {
   width:1000px;
   background-image:url(https://suzukikengo.github.io/IMG_7259.jpg);
   background-size:cover;
+
+}
+
+
+.waka{
+ color:white;
+ font-size:30px;
+ opacity:0.5;
+ margin:0 0 0 100px;
+ padding:0 0 0 0;
+}
+
+.waka h1{
+  border:20px solid #332c2c; 
 }
