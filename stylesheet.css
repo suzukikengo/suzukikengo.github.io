@@ -6,6 +6,7 @@ body {
 .header-logo{
   height:100;
   width:1000;
+  text-align:center;
   color:white;
   background-color:rgba(255,150,150,0.5)
 }
