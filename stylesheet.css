@@ -7,7 +7,7 @@ body {
   
 .header-logo{
   height:40px;
-  width:500px;
+  width:400px;
   font-size:25px;
   text-align:center;
   color:white;
@@ -18,8 +18,8 @@ body {
 .main{
   margin:0 0 0 0;
   padding:0 0 0 0;
-  height:500px;
-  width:500px;
+  height:400px;
+  width:400px;
   background-image:url(https://suzukikengo.github.io/IMG_7259.jpg);
   background-size:cover;
 
@@ -31,13 +31,15 @@ body {
  color:white;
  font-size:15px;
  opacity:0.5;
- margin:0 0 0 100px;
- padding:20px 0 0 0px;
+ margin-left:10px;
+ padding:20px 0px 0px 0px;
 }
 
 .waka h1{
+  padding:0px 0px;
+  margin:15px 0 0 0;
 }
 
 .onnsei{
-padding:200px 100px;
+padding:100px 80px;
  }
