@@ -1,22 +1,26 @@
-
 body {
-  font-family: "Avenir Next";
+  font-family: "Comic Sans MS";
 }
-
+.header{
+  padding:0 0 10px 0;
+  }
+  
 .header-logo{
-  height:100;
-  width:1000;
+  height:80px;
+  width:1000px;
+  font-size:50px;
   text-align:center;
   color:white;
-  background-color:rgba(255,150,150,0.5)
+  background-color:rgba(2,10,10,0.5)
+
 }
   
 
 
 
 .main{
-  height:1000;
-  width:1000;
+  height:1000px;
+  width:1000px;
   background-image:url(https://suzukikengo.github.io/IMG_7259.jpg);
   background-size:cover;
 }
