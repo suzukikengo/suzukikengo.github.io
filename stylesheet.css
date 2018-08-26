@@ -28,6 +28,7 @@ li {
 }
 
 .header-list {
+  display:inline-block;
   font-size: 25px;
   float: left;
 }
