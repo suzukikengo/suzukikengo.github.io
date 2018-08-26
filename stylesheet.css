@@ -25,12 +25,28 @@ body {
 
 }
 
+h2{
+font-family:'HGP行書体';
+color:white;
+font-size:70px;
+padding:10px 50px;
+margin:0 0;
+opacity:0.3;
+transition:all 5s;
+}
+
+h2:hover{
+color:red;
+opacity:1;
+font-size:200px;
+}
+
 
 .waka{
  font-family:'HGP行書体';
  color:white;
  font-size:60px;
- opacity:0.5;
+ opacity:0.8;
  margin-left:10px;
  padding:40px 40px 40px 0px;
 }
