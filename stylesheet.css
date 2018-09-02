@@ -74,7 +74,6 @@ img{
   
 .header{
   padding:0 0 0 0;
-  border:3px solid #29253c;
   }
   
 .header-logo{
@@ -83,8 +82,8 @@ img{
   font-size:60px;
   line-height:150px;
   text-align:center;
-  color:#af3838;
-  background-color:rgb(30, 56, 22);
+  color:black;
+  background-color:white;
   }
   
 .main{
