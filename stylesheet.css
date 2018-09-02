@@ -67,11 +67,11 @@ img{
 
  }
 
-@media(max-width:670px)
+@media(max-width:670px){
  .block{
    
    position:relative;
    height:100px;
    width:100px;
 }
-  
+}
