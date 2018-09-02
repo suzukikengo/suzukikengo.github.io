@@ -64,7 +64,7 @@ img{
 
  }
 
-@media(max-width:670px)
+@media(max-width:1000px)
  .block{
    height:100%;
    width:100%;
