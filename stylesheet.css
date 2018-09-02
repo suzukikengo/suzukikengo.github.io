@@ -10,7 +10,7 @@ body {
   
 .header-logo{
   height:150px;
-  width:1600px;
+  width:100%;
   font-size:70px;
   line-height:150px;
   text-align:center;
@@ -21,32 +21,32 @@ body {
 .main{
   margin:0 0 0 0;
   padding:0 0 0 0;
-  height:1600px;
-  width:1600px;
-  background-size:cover;
+  height:2400px;
+  width:100%;
+ }
 
+.block {
+   position:relative;
+   float:left;
+   height:25%;
+   width:25%;
+
+ }
+
+img{
+  height:100%;
+   width:100%;
+   border-radius:100px;
+   padding:0 5px;
 }
 
-h2{
-font-family:'HGP行書体';
-color:white;
-font-size:70px;
-padding:10px 50px;
-margin:0 0;
-opacity:0.3;
-transition:all 5s;
-}
 
-h2:hover{
-color:red;
-opacity:1;
-font-size:200px;
-}
 
 
 .waka{
   position:absolute;
-  top:250px;
+  top:30px;
+  left:10px;
  font-family:'HGP行書体';
  color:white;
  font-size:45px;
@@ -55,13 +55,11 @@ font-size:200px;
  padding:40px 40px 40px 0px;
 }
 
-.waka h1{
-  padding:20px 0px;
-  margin:50px 0 0 0;
-}
+
 
 .onnsei{
   position:absolute;
-  top:700px;
+  top:500px;
+  left:50px;
 
  }
