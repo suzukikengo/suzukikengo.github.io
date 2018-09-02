@@ -104,7 +104,7 @@ img{
   height:100%;
   width:100%;
   border-radius:100px;
-  padding:0 5px;
+  padding:5px 5px;
   }
 
 .waka{
@@ -113,7 +113,7 @@ img{
  left:10px;
  font-family:'HGP行書体';
  color:white;
- font-size:45px;
+ font-size:42px;
  opacity:0.8;
  margin-left:10px;
  padding:40px 40px 40px 0px;
