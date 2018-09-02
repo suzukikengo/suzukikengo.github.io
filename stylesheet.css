@@ -63,3 +63,10 @@ img{
   left:50px;
 
  }
+
+@media(max-width:670px)
+ .block{
+   height:100%;
+   width:100%;
+}
+  
