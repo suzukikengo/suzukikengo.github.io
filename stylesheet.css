@@ -6,12 +6,14 @@ body {
 }
 .header{
   padding:0 0 0 0;
-  border:3px solid #29253c;
+  border:3px solid black;
+  width:2400px;
+
   }
   
 .header-logo{
   height:150px;
-  width:100%;
+  width:2400px;
   font-size:70px;
   line-height:150px;
   text-align:center;
@@ -24,7 +26,7 @@ body {
   margin:0 0 0 0;
   padding:10px 0 0 0;
   height:2400px;
-  width:100%;
+  width:2403px;
  }
 
 .block {
