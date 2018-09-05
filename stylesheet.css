@@ -62,7 +62,11 @@ img{
  padding:40px 40px 40px 0px;
 }
 
-
+p2{
+ position:absolute;
+ top:400px;
+ left:250px;
+ } 
 
 .onnsei{
   position:absolute;
