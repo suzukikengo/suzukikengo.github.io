@@ -23,7 +23,9 @@ body {
 .header-logo a{
  float:right;
  padding:20px 100px 0 0;
-} 
+ font-size:50px;
+ padding:30px 50px 0 0;
+}
 
 .main{
   background-color:rgb(0, 0, 0);
