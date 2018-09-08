@@ -24,8 +24,9 @@ body {
  float:right;
  padding:20px 100px 0 0;
  font-size:50px;
- padding:30px 50px 0 0;
-}
+ color:white;
+  font-family: "ＭＳ ゴシック";
+} 
 
 .main{
   background-color:rgb(0, 0, 0);
@@ -76,6 +77,19 @@ p2{
   left:50px;
  }
 
+.footer{
+  height:150px;
+  width:2400px;
+  font-size:100px;
+  text-align:center;
+  background-color:#3c68a28a;
+ }
+
+ .footer h4{
+margin:0
+
+ }
+ 
 span{
  color:#000000;
  }
