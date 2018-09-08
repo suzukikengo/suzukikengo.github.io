@@ -77,19 +77,6 @@ p2{
   left:50px;
  }
 
-.footer{
-  height:150px;
-  width:2400px;
-  font-size:100px;
-  text-align:center;
-  background-color:#3c68a28a;
- }
-
- .footer h4{
-margin:0
-
- }
- 
 span{
  color:#000000;
  }
@@ -154,7 +141,7 @@ img{
 
 .waka{
  position:absolute;
- top:30px;
+ top:10px;
  left:10px;
  font-family:'HGP行書体';
  color:white;
@@ -166,20 +153,7 @@ img{
 
 .onnsei{
  position:absolute;
- top:280px;
- left:30px;
+ top:300px;
+ left:35px;
  }
   
-.footer{
-
-  height:100px;
-  width:675px;
-  font-size:50px;
-  text-align:center;
-  background-color:#3c68a28a;
- }
-
- .footer h4{
-margin:0
-
- }
