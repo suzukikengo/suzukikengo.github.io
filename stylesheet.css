@@ -152,7 +152,7 @@ img{
  }
 
 p2{
-  width:200px;
+ width:280px;
  position:absolute;
  top:250px;
  left:90px;
@@ -166,3 +166,7 @@ p2{
  left:35px;
  }
   
+.span2{
+ color:red;
+ }
+
